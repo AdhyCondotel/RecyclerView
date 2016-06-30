@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RecycleViewDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Names -->
+    <string-array name="names">
+        <item>Pavan D</item>
+        <item>DayaSagar</item>
+        <item>Pavan B</item>
+        <item>Maddy</item>
+        <item>Pavan H</item>
+        <item>Nikhil</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="profile_pics">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+    </array>
+
+    <!-- Status -->
+    <string-array name="email">
+        <item>hdpavan@xyz.com</item>
+        <item>dj@xyz.com</item>
+        <item>pavanb@xyz.com</item>
+        <item>maddy@xyz.com</item>
+        <item>pavanh@xyz.com</item>
+        <item>nikhil@xyz.com</item>
+    </string-array>
+
+
+</resources>
